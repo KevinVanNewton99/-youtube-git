@@ -1,3 +1,3 @@
 # Curso e _Git_ & _GitHub_
 
-Hola soy tu amigo y docente digital Jonathan Mircha,bienvenidos a mi curso
+Hola soy julio herless , y estoy empezando con toda la pasión del mundo en el mundo de la programación
