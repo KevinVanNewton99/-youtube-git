@@ -1,0 +1,116 @@
+commit 4bf5025b53252f16ec169979c8d948794362eeb4
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Tue Nov 26 09:46:42 2024 -0500
+
+    Agregando dos párrafos
+
+commit e1cc9be8e3b09b8710af59197c42cbbcc5878874
+Merge: 6535e18 939d9db
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Tue Nov 26 09:38:03 2024 -0500
+
+    Resolviendo conflictos en estaciones del año y fechas de inicio
+
+commit 6535e18ba52d7800c2dd484d7b6290cb0e2cf2f6
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Mon Nov 25 20:41:10 2024 -0500
+
+    agregando estaciones del año con fecha
+
+commit 939d9db6521577b122900e21bb11281222619e46
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Mon Nov 25 20:41:10 2024 -0500
+
+    Agregando las estaciones de año
+
+commit 916aa461b398ae98b3a41dca0c741931882e1ecb
+Merge: e160419 9f1651f
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Mon Nov 25 20:06:39 2024 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 9f1651fbdcbc32e6142351301465b831ecb0d27f
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Mon Nov 25 16:56:40 2024 -0500
+
+    Agregando index.js al index.html
+
+commit e160419c26277cee95393fdafefcedfd644e0b2b
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Mon Nov 25 16:23:29 2024 -0500
+
+    Agregando style.css al index.html
+
+commit 7ac9daecdc30ca1a6c1b63cd3c53ece67cd41a6e
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Mon Nov 25 11:41:03 2024 -0500
+
+    Eliminando archivos inecessarios
+
+commit 3da0ed9327a5ec6b16b4100a26b3b188fc2e792a
+Merge: 1fe1269 ac02d71
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Mon Nov 25 10:34:24 2024 -0500
+
+    Merge branch 'js'
+
+commit ac02d71a34473fea2cb9cdf668ef3d3f09d28b71
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Mon Nov 25 10:17:09 2024 -0500
+
+    Creando index.js
+
+commit 1fe126967e911af231278780387828814b278112
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Mon Nov 25 09:52:57 2024 -0500
+
+    Creando style.css
+
+commit cd65c2c17b5d377c2e12e707247bd741dbc130e7
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Mon Nov 25 09:22:07 2024 -0500
+
+    Creando index.html
+
+commit b6283ca00eb8fb0f8e82d0c4b20d4fa092f51ee0
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Mon Nov 25 08:00:38 2024 -0500
+
+    Ignorando archivos .exe
+
+commit 6e05c105196a7ac76a41cf9370773d3d14203f6d
+Author: KevinVanNewton99 <100143416+KevinVanNewton99@users.noreply.github.com>
+Date:   Sat Nov 23 19:49:15 2024 -0500
+
+    creando otra licensia
+
+commit 0ca07a9f71456f9b13ae6951735f7c2c9ff146f0
+Author: KevinVanNewton99 <100143416+KevinVanNewton99@users.noreply.github.com>
+Date:   Sat Nov 23 19:46:04 2024 -0500
+
+    creando licensia del repositorio
+
+commit 1f1a45d6d0a17882cbb5cf4f340878fb43c9f556
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Sat Nov 23 19:23:34 2024 -0500
+
+    Agregando más contenido al README
+
+commit 38c53b91edd5939ad26ff85a447f4fe7ee10084c
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Sat Nov 23 17:38:58 2024 -0500
+
+    Me presento ante el mundo
+
+commit 4205c36022b93055a3cab7115551f6af1b689585
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Sat Nov 23 17:21:03 2024 -0500
+
+    Agregando contenido inicial al README
+
+commit 0aee7b366ee6158e37f13b75d4bf67d219b640f4
+Author: Julio Herless <julioherlessmx@gmail.com>
+Date:   Sat Nov 23 16:51:49 2024 -0500
+
+    mi primer commit 👽
